@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeddingApp</string>
+    <string name="app_name_space">Wedding App</string>
+
+    <string name="open_app_counter">Aplikację uruchomiono %d razy</string>
+    <string name="confirm_visitor">Czy %1$s %2$s przyjdzie na wesele?</string>
+
+    <plurals name="open_app_counter">
+        <item quantity="one">Aplikację uruchomiono %d raz</item>
+        <item quantity="few">Aplikację uruchomiono %d razy</item>
+        <item quantity="other">Aplikację uruchomiono %d razy</item>
+    </plurals>
+
+</resources>
